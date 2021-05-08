@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-08T12:47:56.884Z" agent="5.0 (Windows)" etag="KIqBThoZz8v-aHfAs-vu" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-08T12:49:45.470Z" agent="5.0 (Windows)" etag="GIOelup5AJ3n_EsZkNDA" version="14.6.11" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1038" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -112,6 +112,9 @@
             <mxPoint x="390" y="310" as="sourcePoint" />
             <mxPoint x="550" y="280" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="cGorxTFUrFWJMz6KMfGT-10" value="&lt;h1&gt;流程流转状态图&lt;br&gt;&lt;/h1&gt;&lt;p&gt;田田作为一个企业管理员创建企业用户并完成注册需要经过以下流程&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;comic=1;fontFamily=Comic Sans MS;fontSize=12;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="570" y="40" width="190" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
