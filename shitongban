@@ -1,41 +1,126 @@
-<mxfile host="app.diagrams.net" modified="2021-06-05T11:04:51.340Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="7xxYWF2rsLWqUixzAhHn" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-05T11:31:52.539Z" agent="5.0 (Windows)" etag="7IxRzLGTZIZstqGf0lBb" version="14.7.6" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1374" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="Orgchart" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="80" width="710" height="290" as="geometry" />
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="收件受理人员" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="225" width="710" height="160" as="geometry" />
         </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Tessa Miller" position="CFO" location="Office 1" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-12">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="260" y="50" width="180" height="70" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-13" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-14" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-14">
+        <UserObject label="%name%&lt;br&gt;&lt;div&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i style=&quot;color: gray&quot;&gt;%range%&lt;br&gt;&lt;/i&gt;&lt;/div&gt;" name="东河、昆区、九原、高新" position="受理人员" placeholders="1" range="全市、全业务受理" id="dNxyNK7c78bLwvsdeMH5-14">
           <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="40" y="180" width="180" height="80" as="geometry" />
+            <mxGeometry x="40" y="40" width="180" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-15" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-16" edge="1">
+        <UserObject label="%name%&lt;br&gt;&lt;div&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i style=&quot;color: gray&quot;&gt;%range%&lt;br&gt;&lt;/i&gt;&lt;/div&gt;" name="达茂旗" position="受理人员" placeholders="1" range="全市、全业务受理" id="7dwUFTtGg-bZm8TNBDyP-2">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="490" y="40" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%&lt;br&gt;&lt;div&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i style=&quot;color: gray&quot;&gt;%range%&lt;br&gt;&lt;/i&gt;&lt;/div&gt;" name="土右旗" position="受理人员" placeholders="1" range="全市、全业务受理" id="dNxyNK7c78bLwvsdeMH5-12">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
+            <mxGeometry x="265" y="40" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="7dwUFTtGg-bZm8TNBDyP-14" value="登簿缮证等" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="820" width="710" height="160" as="geometry" />
+        </mxCell>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;" name="东河、昆区、九原、高新" position="登簿缮证人员" placeholders="1" id="7dwUFTtGg-bZm8TNBDyP-15">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="7dwUFTtGg-bZm8TNBDyP-14">
+            <mxGeometry x="40" y="40" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;" name="达茂旗" position="登簿缮证人员" placeholders="1" id="7dwUFTtGg-bZm8TNBDyP-16">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="7dwUFTtGg-bZm8TNBDyP-14">
+            <mxGeometry x="490" y="40" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;" name="土右" position="登簿缮证人员" placeholders="1" id="7dwUFTtGg-bZm8TNBDyP-17">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="7dwUFTtGg-bZm8TNBDyP-14">
+            <mxGeometry x="265" y="40" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="7dwUFTtGg-bZm8TNBDyP-18" value="审核人员" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="520" width="710" height="160" as="geometry" />
+        </mxCell>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;" name="东河、昆区、九原、高新" position="审核人员" placeholders="1" id="7dwUFTtGg-bZm8TNBDyP-19">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="7dwUFTtGg-bZm8TNBDyP-18">
+            <mxGeometry x="40" y="40" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;" name="达茂旗" position="审核人员" placeholders="1" id="7dwUFTtGg-bZm8TNBDyP-20">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="7dwUFTtGg-bZm8TNBDyP-18">
+            <mxGeometry x="490" y="40" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;" name="土右旗" position="审核人员" placeholders="1" id="7dwUFTtGg-bZm8TNBDyP-21">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" vertex="1" parent="7dwUFTtGg-bZm8TNBDyP-18">
+            <mxGeometry x="265" y="40" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="7dwUFTtGg-bZm8TNBDyP-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;" edge="1" parent="1" source="7dwUFTtGg-bZm8TNBDyP-80" target="7dwUFTtGg-bZm8TNBDyP-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-16">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="260" y="180" width="180" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-17" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-18" edge="1">
+        <mxCell id="7dwUFTtGg-bZm8TNBDyP-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;" edge="1" parent="1" source="7dwUFTtGg-bZm8TNBDyP-80" target="7dwUFTtGg-bZm8TNBDyP-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-18">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="490" y="180" width="180" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
+        <mxCell id="7dwUFTtGg-bZm8TNBDyP-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;" edge="1" parent="1" source="7dwUFTtGg-bZm8TNBDyP-80" target="7dwUFTtGg-bZm8TNBDyP-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7dwUFTtGg-bZm8TNBDyP-80" value="属地审核" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="410" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7dwUFTtGg-bZm8TNBDyP-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;" edge="1" parent="1" source="dNxyNK7c78bLwvsdeMH5-14" target="7dwUFTtGg-bZm8TNBDyP-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7dwUFTtGg-bZm8TNBDyP-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;" edge="1" parent="1" source="dNxyNK7c78bLwvsdeMH5-12" target="7dwUFTtGg-bZm8TNBDyP-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7dwUFTtGg-bZm8TNBDyP-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;" edge="1" parent="1" source="7dwUFTtGg-bZm8TNBDyP-2" target="7dwUFTtGg-bZm8TNBDyP-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7dwUFTtGg-bZm8TNBDyP-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;" edge="1" parent="1" source="7dwUFTtGg-bZm8TNBDyP-87" target="7dwUFTtGg-bZm8TNBDyP-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7dwUFTtGg-bZm8TNBDyP-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;" edge="1" parent="1" source="7dwUFTtGg-bZm8TNBDyP-87" target="7dwUFTtGg-bZm8TNBDyP-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7dwUFTtGg-bZm8TNBDyP-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;" edge="1" parent="1" source="7dwUFTtGg-bZm8TNBDyP-87" target="7dwUFTtGg-bZm8TNBDyP-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7dwUFTtGg-bZm8TNBDyP-87" value="属地登簿缮证" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="710" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7dwUFTtGg-bZm8TNBDyP-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;" edge="1" parent="1" source="7dwUFTtGg-bZm8TNBDyP-19" target="7dwUFTtGg-bZm8TNBDyP-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7dwUFTtGg-bZm8TNBDyP-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;" edge="1" parent="1" source="7dwUFTtGg-bZm8TNBDyP-20" target="7dwUFTtGg-bZm8TNBDyP-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7dwUFTtGg-bZm8TNBDyP-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;" edge="1" parent="1" source="7dwUFTtGg-bZm8TNBDyP-21" target="7dwUFTtGg-bZm8TNBDyP-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7dwUFTtGg-bZm8TNBDyP-95" value="统一登记平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="230" width="120" height="750" as="geometry" />
+        </mxCell>
+        <mxCell id="7dwUFTtGg-bZm8TNBDyP-96" value="" style="endArrow=classic;startArrow=classic;html=1;strokeWidth=1;entryX=0.025;entryY=0.104;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="7dwUFTtGg-bZm8TNBDyP-95">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="750" y="308" as="sourcePoint" />
+            <mxPoint x="720" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7dwUFTtGg-bZm8TNBDyP-97" value="" style="endArrow=classic;startArrow=classic;html=1;strokeWidth=1;entryX=0.025;entryY=0.104;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="747" y="899.5" as="sourcePoint" />
+            <mxPoint x="890" y="899.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7dwUFTtGg-bZm8TNBDyP-98" value="" style="endArrow=classic;startArrow=classic;html=1;strokeWidth=1;entryX=0.025;entryY=0.104;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="747" y="599.5" as="sourcePoint" />
+            <mxPoint x="890" y="599.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
