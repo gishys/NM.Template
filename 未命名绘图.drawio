@@ -1,9 +1,99 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:132.0) Gecko/20100101 Firefox/132.0" version="24.9.1">
   <diagram name="第 1 页" id="HgpqP83hsexyUDWy3FSO">
-    <mxGraphModel>
+    <mxGraphModel dx="2074" dy="1106" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="sTH5wmCVDVjR2tIoM_gs-11" value="" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=dashed;" vertex="1" parent="1">
+          <mxGeometry x="190" y="370" width="500" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="sTH5wmCVDVjR2tIoM_gs-1" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=#96C0FF;perimeterSpacing=1;fillStyle=dashed;" vertex="1" parent="1">
+          <mxGeometry x="80" y="360" width="640" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="sTH5wmCVDVjR2tIoM_gs-2" value="&lt;font style=&quot;font-size: 21px;&quot; color=&quot;#ffffff&quot;&gt;业务应用平台&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="400" width="60" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="sTH5wmCVDVjR2tIoM_gs-3" value="&lt;font color=&quot;#ffffff&quot;&gt;业务综合管理系统&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="389" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sTH5wmCVDVjR2tIoM_gs-4" value="&lt;font color=&quot;#ffffff&quot;&gt;水资源配置与供用水调度&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="389" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sTH5wmCVDVjR2tIoM_gs-6" value="&lt;font color=&quot;#ffffff&quot;&gt;水灾害防御系统&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="389" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sTH5wmCVDVjR2tIoM_gs-8" value="&lt;font color=&quot;#ffffff&quot;&gt;用水权管理系统&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="429" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sTH5wmCVDVjR2tIoM_gs-9" value="&lt;font color=&quot;#ffffff&quot;&gt;水费申报征收与自助开票&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="429" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sTH5wmCVDVjR2tIoM_gs-10" value="&lt;font color=&quot;#ffffff&quot;&gt;数据整合与共享服务&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="429" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sTH5wmCVDVjR2tIoM_gs-12" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 20px;&quot;&gt;本次设计&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="399" width="60" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="sTH5wmCVDVjR2tIoM_gs-13" value="" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=dashed;" vertex="1" parent="1">
+          <mxGeometry x="190" y="500" width="500" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sTH5wmCVDVjR2tIoM_gs-14" value="&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#ffffff&quot;&gt;管理一张图&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="515" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="sTH5wmCVDVjR2tIoM_gs-15" value="&lt;font color=&quot;#ffffff&quot;&gt;可视化展示&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="515" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="sTH5wmCVDVjR2tIoM_gs-16" value="&lt;font color=&quot;#ffffff&quot;&gt;业务管理系统(信息采集、量水测水、配水调度、水费管理、防汛抗旱、工程管理及运养)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="515" width="200" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="sTH5wmCVDVjR2tIoM_gs-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=dashed;" vertex="1" parent="1">
+          <mxGeometry x="80" y="660" width="640" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="sTH5wmCVDVjR2tIoM_gs-18" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 21px;&quot;&gt;数字孪生平台&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="680" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sTH5wmCVDVjR2tIoM_gs-20" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 15px;&quot;&gt;数据底板&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="687.5" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="sTH5wmCVDVjR2tIoM_gs-21" value="&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#ffffff&quot;&gt;模型库&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="687.5" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="sTH5wmCVDVjR2tIoM_gs-22" value="&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#ffffff&quot;&gt;知识库&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="687.5" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="sTH5wmCVDVjR2tIoM_gs-23" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 21px;&quot;&gt;灌区业务应用平台总体框架图&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="800" width="430" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sTH5wmCVDVjR2tIoM_gs-24" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="650" as="sourcePoint" />
+            <mxPoint x="170" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sTH5wmCVDVjR2tIoM_gs-25" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="399.5" y="650" as="sourcePoint" />
+            <mxPoint x="399.5" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sTH5wmCVDVjR2tIoM_gs-26" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="650" as="sourcePoint" />
+            <mxPoint x="510" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sTH5wmCVDVjR2tIoM_gs-27" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="650" as="sourcePoint" />
+            <mxPoint x="620" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sTH5wmCVDVjR2tIoM_gs-28" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="650" as="sourcePoint" />
+            <mxPoint x="280" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
